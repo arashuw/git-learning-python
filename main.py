@@ -1,4 +1,6 @@
-name = "Mr.Arash"
+
+name = "Arash Afshar"
+
 
 print("Hello", name)
 print("welcome to git and github")
